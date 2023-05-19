@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc9fd0baf0146d49b42d1eefdf306e8, type: 3}
+  m_Name: Stats_Archer
+  m_EditorClassIdentifier: 
+  _maxHealth: 50
+  _maxEnergy: 50
+  _attack: 12
+  _defence: 1
+  _accuracy: 5
+  _agility: 1

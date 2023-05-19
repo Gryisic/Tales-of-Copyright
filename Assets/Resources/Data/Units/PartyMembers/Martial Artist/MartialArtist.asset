@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88ce513b5da4859b54cdadc7abceb67, type: 3}
+  m_Name: MartialArtist
+  m_EditorClassIdentifier: 
+  _statsTemplate: {fileID: 11400000, guid: 90adff60037fb8046ae88a844575b2ea, type: 2}
+  _actionsContainer:
+    _templates:
+    - {fileID: 11400000, guid: a1e019869868fdb4ea72ad99c21c1da4, type: 2}
+    - {fileID: 11400000, guid: d012db06aaa828b46b71a5023281f0bb, type: 2}
+    - {fileID: 11400000, guid: 418e7e9e448d44f48bcb8957ef809e36, type: 2}
+  _type: 1
+  _soundsContainer:
+    _hit:
+    - {fileID: 8300000, guid: 15a38848be113c3438d12e9cb1a0ce47, type: 3}
+    - {fileID: 8300000, guid: 1696dba1c32357241b1c1206928b79a8, type: 3}
+    - {fileID: 8300000, guid: 9398bf0b2cdaf3b4d8821117ebabd3f2, type: 3}
+    - {fileID: 8300000, guid: bedb06960ccc82648b79dfab49fe1fca, type: 3}
+    - {fileID: 8300000, guid: 00654682e637fad4abc46afce1f9c279, type: 3}
+    _takeHit:
+    - {fileID: 8300000, guid: 0006574bd4783d14991c2fcc5b304fec, type: 3}
+    - {fileID: 8300000, guid: 52c266a898817f94580da943e341c11b, type: 3}
+    - {fileID: 8300000, guid: 78500e66a40e62544b09fe8a9826af47, type: 3}
+    - {fileID: 8300000, guid: 83a09e130bb7c634b9acd6781fba3008, type: 3}
+    - {fileID: 8300000, guid: e6fddcface0e9b945aec0ff16f30a7dd, type: 3}
+    _death:
+    - {fileID: 8300000, guid: 473cd9d8e9240734da80e78ff500a205, type: 3}

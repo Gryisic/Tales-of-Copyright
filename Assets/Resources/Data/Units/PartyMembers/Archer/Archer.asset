@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88ce513b5da4859b54cdadc7abceb67, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  _statsTemplate: {fileID: 11400000, guid: a08432b3042398045a70cf52ae76ae00, type: 2}
+  _actionsContainer:
+    _templates:
+    - {fileID: 11400000, guid: 426ee7766b673cf4c920cd8efaca4f5c, type: 2}
+    - {fileID: 11400000, guid: 2a7aa55146e67ae4cb43e61bd01b0b1c, type: 2}
+  _type: 2
+  _soundsContainer:
+    _hit:
+    - {fileID: 8300000, guid: 6b3290e4f1e491b4d819f0b82ef47a4f, type: 3}
+    - {fileID: 8300000, guid: 91566a170c3aec243b59d79ae14c7872, type: 3}
+    - {fileID: 8300000, guid: 04953785ee44c264c9ec96d2ba75c72f, type: 3}
+    - {fileID: 8300000, guid: a4a875a40468af74eb41fe1818067c35, type: 3}
+    - {fileID: 8300000, guid: c4e25f8238927db4897af6b76c0ca19b, type: 3}
+    _takeHit:
+    - {fileID: 8300000, guid: 3525cc52b41062f449e6c4eb08b450b2, type: 3}
+    - {fileID: 8300000, guid: c07d97fc9450ed64c842354980ded401, type: 3}
+    - {fileID: 8300000, guid: be4e30d0a43779142b79f7555846504b, type: 3}
+    - {fileID: 8300000, guid: a4c133396d972f64391c2a952cdbf5a4, type: 3}
+    - {fileID: 8300000, guid: e36e6b9d356aa0c47a6092d716e1414e, type: 3}
+    _death:
+    - {fileID: 8300000, guid: c584ed427ce3e1447a38ef8000ef1295, type: 3}

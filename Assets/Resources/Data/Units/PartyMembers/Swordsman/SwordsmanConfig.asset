@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88ce513b5da4859b54cdadc7abceb67, type: 3}
+  m_Name: SwordsmanConfig
+  m_EditorClassIdentifier: 
+  _statsTemplate: {fileID: 11400000, guid: 26408b5c8c31bf046b5a4e7f85eeb102, type: 2}
+  _actionsContainer:
+    _templates:
+    - {fileID: 11400000, guid: 5f69a1ce7472b9c4784a2378daa71591, type: 2}
+    - {fileID: 11400000, guid: c36580269bf5dce4498516f7ed196ed3, type: 2}
+    - {fileID: 11400000, guid: 128cdff9099722d42b8dbc627fe23723, type: 2}
+  _type: 0
+  _soundsContainer:
+    _hit:
+    - {fileID: 8300000, guid: 05097de25d6154c4ab8e37f109eb8755, type: 3}
+    - {fileID: 8300000, guid: 197bff62e45f03f4ab6a60bba0c60128, type: 3}
+    - {fileID: 8300000, guid: 4c6dff4832bfa9142894ff57894ba46c, type: 3}
+    - {fileID: 8300000, guid: f364f4f49b27f1f45b8fade29d28f354, type: 3}
+    - {fileID: 8300000, guid: 90eb125af708f6549974940ec1dfdb7a, type: 3}
+    _takeHit:
+    - {fileID: 8300000, guid: c5dbdda5ea17920468bf702821ce01bc, type: 3}
+    - {fileID: 8300000, guid: b3a438f229167374dbc7d9c91659d022, type: 3}
+    - {fileID: 8300000, guid: b181ac57640bcf249a38d6f27583acb1, type: 3}
+    - {fileID: 8300000, guid: aaaf2b20e07210643ad100003c69c086, type: 3}
+    - {fileID: 8300000, guid: 05541c91080773946a7e039ca88390f4, type: 3}
+    _death:
+    - {fileID: 8300000, guid: c030d8bc7db3b2348b06c357c83c7c06, type: 3}
