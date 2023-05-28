@@ -2,7 +2,6 @@
 using System.Threading;
 using Cinemachine;
 using Cysharp.Threading.Tasks;
-using DG.Tweening;
 using Infrastructure.Utils;
 using UnityEngine;
 

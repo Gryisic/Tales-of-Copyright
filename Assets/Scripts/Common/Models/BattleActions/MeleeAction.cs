@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using Infrastructure.Interfaces;
-using Infrastructure.Utils;
 using UnityEngine;
 
 namespace Common.Models.BattleActions

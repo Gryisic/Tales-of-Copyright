@@ -1,8 +1,6 @@
 ﻿using System.Threading;
 using Common.Models.Units;
-using Infrastructure.Extensions;
 using Infrastructure.Interfaces;
-using UnityEngine;
 
 namespace Common.StateMachines.UnitStateMachine
 {

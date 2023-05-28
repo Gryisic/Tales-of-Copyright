@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 using Common.Factories;
 using Common.Models.BattleActions;
-using UnityEngine;
 
 namespace Common.Battle
 {

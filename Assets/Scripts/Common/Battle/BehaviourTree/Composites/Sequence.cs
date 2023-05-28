@@ -1,5 +1,4 @@
 ﻿using Infrastructure.Utils;
-using UnityEngine;
 
 namespace Common.Battle.BehaviourTree.Composites
 {

@@ -1,7 +1,6 @@
 ﻿using System;
 using Common.Data;
 using Common.Models.Camera;
-using Common.Models.Party;
 using Common.UI.Battle;
 
 namespace Common.Battle
